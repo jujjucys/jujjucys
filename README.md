@@ -1,8 +1,12 @@
  <div align="center">
   <img height="400" src="https://i.pinimg.com/736x/b8/7a/02/b87a02593a0a485448e43932a333a4bd.jpg"  />
-</div>
-
-###
+  
+ </div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=IM+Fell+English&size=49&pause=1000&color=5F3A19&width=1000&center=true&vCenter=true&lines=Not+every+monster+is+visible." alt="Typing SVG" />
+  </a>
+</p>
 
 <div align="center">
   <a href="https://open.spotify.com/intl-pt/artist/6Ghvu1VvMGScGpOUJBAHNH?si=Iy9DxKdCSAWxqkt4ZgtoKA" target="_blank">
