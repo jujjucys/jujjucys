@@ -1,7 +1,6 @@
  <div align="center">
   <img height="400" src="https://i.pinimg.com/736x/b8/7a/02/b87a02593a0a485448e43932a333a4bd.jpg"  /><p align="center">
-  <a href="https://git.io/typing-svg">
-    />
+  <a href="https://git.io/typing-svg"
   </a>
 </p>
   
