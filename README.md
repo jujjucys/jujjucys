@@ -1,12 +1,18 @@
 <div align="center">
-  <img height="423" src="https://i.pinimg.com/736x/9e/cd/23/9ecd238725ea3bbfbd29d4979d83d999.jpg"  />
+  <img height="400" src="https://media.giphy.com/media/HGqHOqObew6JNJyf42/giphy.gif"  />
 </div>
 
 ###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IM+Fell+English&size=49&pause=1000&color=5F3A19&width=1000&center=true&vCenter=true&lines=Not+every+monster+is+visible.)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://open.spotify.com/intl-pt/artist/6Ghvu1VvMGScGpOUJBAHNH?si=Iy9DxKdCSAWxqkt4ZgtoKA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=38761d&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
+  </a>
+  <a href="carolinyjulia976@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=f1c232&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.youtube.com/@OrdemParanormal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=800000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>
 
@@ -32,6 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
 ###
